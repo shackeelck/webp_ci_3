@@ -13,3 +13,12 @@ Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , 
    
  # Image Manipulation Class
     ## upload the class Image_lib.php file to:  ./application/libraries/
+   
+   tested And Verified 
+   -------------------
+   
+    * Image Resizing
+    * Thumbnail Creation
+    * Image Watermarking 
+    
+    Comment for more ...
