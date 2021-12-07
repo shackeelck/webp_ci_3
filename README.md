@@ -9,7 +9,7 @@ Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , 
  ## And in your upload config "allowed_types" add "webp" :
     $config['allowed_types'] = 'gif|jpg|jpeg|png|webp';
    
-   Or upload the class mimes.php  to:  ./application/config/
+   Or upload and replace class mimes.php at :  ./application/config/
    
  # Image Manipulation Class
    upload the class Image_lib.php  to:  ./application/libraries/
