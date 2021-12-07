@@ -7,14 +7,14 @@ Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , 
    
    'webp'   =>  array('image/webp'), 
  
- ## and in your upload config "allowed_types" add "webp" :
+ ## And in your upload config "allowed_types" add "webp" :
  
    $config['allowed_types'] = 'gif|jpg|jpeg|png|webp';
    
  # Image Manipulation Class
     ## upload the class Image_lib.php file to:  ./application/libraries/
    
-   tested And Verified 
+   Tested And Verified 
    -------------------
    
     * Image Resizing
