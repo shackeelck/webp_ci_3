@@ -1,5 +1,5 @@
 # Webp Image Upload, Crop, Resize And Water Marking CodeIgniter 3
-Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , webp image resizing and cropping , webp image water mark
+Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , webp image resizing and cropping , webp image water marking
 
 # Image Uploading
 
@@ -8,6 +8,8 @@ Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , 
  
  ## And in your upload config "allowed_types" add "webp" :
     $config['allowed_types'] = 'gif|jpg|jpeg|png|webp';
+   
+   Or upload the class mimes.php file to:  ./application/config/
    
  # Image Manipulation Class
    upload the class Image_lib.php file to:  ./application/libraries/
