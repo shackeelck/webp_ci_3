@@ -11,4 +11,5 @@ Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , 
  
    $config['allowed_types'] = 'gif|jpg|jpeg|png|webp';
    
-   
+ # Image Manipulation Class
+    ## upload the class Image_lib.php file to:  ./application/libraries/
