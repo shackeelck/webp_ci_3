@@ -1,4 +1,4 @@
-# webp_ci_3
+# Webp Image Upload, Crop, Resize And Water Marking
 Codeigniter 3 Image Manipulation Class for webp Images - webp image uploading , webp image resizing and cropping , webp image water mark
 
 # Step 1 
